@@ -1,0 +1,9 @@
+pulp
+pandas
+numpy
+scikit-learn
+google-generativeai
+google-genai
+streamlit
+python-dotenv
+openpyxl
