@@ -1,4 +1,3 @@
-
 🍽️ Nom Nom: The AI Concierge for GoodFoods
 Nom Nom is a conversational AI agent designed to automate restaurant reservations and customer inquiries for the GoodFoods chain. This agent enhances customer experience while optimizing restaurant operations through intelligent scheduling, natural conversation, and data-driven insights.
 
